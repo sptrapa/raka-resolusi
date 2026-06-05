@@ -1,4 +1,4 @@
 Belajar 
--Belajar Pemrograman tentang GIT, Nest.js, Flutter, dan framework lainya 
+-Belajar Pemrograman tentang GIT, Nest.js, Flutter
 -Belajar UTBK tahun 2027
 
